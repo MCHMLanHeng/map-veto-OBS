@@ -1,6 +1,10 @@
 # map-veto-OBS
 ## 开始之前
 请确认你是否已安装python
+感谢b站@姓面名包君
+
+## 演示视频
+https://www.bilibili.com/video/BV1DV6iBDEvK/?vd_source=0868340e7b012dbba70e32e3b2bcfb02
 
 ## 安装
 在OBS中选择场景集合 选择导入 点击集合路径中的三点 选择文件夹中的```mapbp.json``` 点击导入
