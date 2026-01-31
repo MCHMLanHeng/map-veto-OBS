@@ -7,7 +7,7 @@
 https://www.bilibili.com/video/BV1DV6iBDEvK/?vd_source=0868340e7b012dbba70e32e3b2bcfb02
 
 ## 安装
-在OBS中选择场景集合 选择导入 点击集合路径中的三点 选择文件夹中的```mapbp.json``` 点击导入
+在OBS中选择场景集合 选择导入 点击集合路径中的三点 选择文件夹中的```CSBP.json``` 点击导入
 再次点击场景集合 选择新的场景
 点击工具 点击脚本 点击```+```导入```delay_visiable.lua```
 在右侧的Sources和Reverse Source中均填入```map1pic,map1team,map1status,map2pic,map2team,map2status,map3pic,map3team,map3status,map4pic,map4team,map4status,map5pic,map5team,map5status,map6pic,map6team,map6status,map7pic,map7team,map7status```
